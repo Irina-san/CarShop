@@ -1,0 +1,22 @@
+body {
+    margin: o;
+    width: auto;
+    height: auto;
+}
+
+li {
+    width: 20rem;
+    height: auto;
+    
+    }
+
+.new-comment {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .comment {
+    background-color: transparent;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
