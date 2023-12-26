@@ -11,7 +11,6 @@ function CommentComponent() {
 
     if (newComment) {
       const newComments = [
-        // Создаем новый комментарий со значением из поля ввода
         {
           text: newComment,
           textColor: getRandomTextColor(),

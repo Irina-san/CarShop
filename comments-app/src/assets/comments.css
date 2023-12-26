@@ -3,18 +3,22 @@ body {
     width: auto;
     height: auto;
 }
+h1 {
+  font-size: 1.5rem;
+  color: #f01010;
+}
 
 li {
     width: 20rem;
     height: auto;
-    
+   
     }
 
 .new-comment {
     padding: 10px;
     margin-bottom: 10px;
   }
-  
+ 
   .comment {
     background-color: transparent;
     padding: 10px;
